@@ -1,6 +1,9 @@
 ### Greetings
 
+-  I'm Sami, a 4th year Computer Science student at UBC
+-  I enjoy riding Bikes, Kickboxing, Programming, & anything with statistics
 -  I’m currently learning [![TF][TF]][TFURL] & [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
+-  I’m looking to collaborate on anything with Statistics or GIS
 
 
 
