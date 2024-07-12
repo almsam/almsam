@@ -7,6 +7,20 @@
 
 ### Skills:
 
+[![Swift][Swift]][SwiftUrl]
+[![R][R]][RUrl]
+[![Mars][Mars]][MarsUrl]
+[![SQL][SQL]][SQLUrl]
+
+[![Py][Py]][PyUrl] with 
+[![Numpy][Numpy]][Numpy-url]
+[![Pandas][Pandas]][Pandas-url]
+[![Matplotlib][Matplotlib]][Matplotlib-url]
+[![Seaborn][Seaborn]][Seaborn-url]
+[![Scikit-learn][Scikit-learn]][Scikit-learn-url]
+[![Statsmodels][Statsmodels]][Statsmodels-url]
+[![TF][TF]][TFURL]
+
 <!--
 **almsam/almsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,6 +49,16 @@ Here are some ideas to get you started:
 [SQL]: https://img.shields.io/badge/MySQL%20-%20%234479A1?logo=mysql&logoColor=%23FFFFFF&logoSize=auto
 [SQLUrl]: https://www.mysql.com
 
-[Py]:
-[PyUrl]
+[Py]: https://img.shields.io/badge/Python%20-%20%233e50b5?logo=python&logoColor=%23FFDE57&logoSize=auto
+[PyUrl]: https://www.python.org
 
+[Numpy]: https://img.shields.io/badge/NumPy-%20%23013243?logo=numpy&logoColor=%23FFFFFF&logoSize=auto
+[Numpy-url]: https://numpy.org/
+[Matplotlib]: https://img.shields.io/badge/MatPlotLib-%20%2365baea?logo=python&logoColor=%23FFFFFF&logoSize=auto
+[Matplotlib-url]: https://matplotlib.org/
+[Seaborn]: https://img.shields.io/badge/SeaBorn-%20%23444876?logo=python&logoColor=%23FFFFFF&logoSize=auto
+[Seaborn-url]: https://seaborn.pydata.org/
+[Pandas]: https://img.shields.io/badge/Pandas%20-%20%23150458?logo=pandas&logoColor=%23FFFFFF&logoSize=auto
+[Pandas-url]: https://pandas.pydata.org/
+[Statsmodels]: https://img.shields.io/badge/StatsModels%20-%20%233e50b5?logo=python&logoColor=%23FFFFFF&logoSize=auto
+[Statsmodels-url]: https://www.statsmodels.org/stable/index.html
