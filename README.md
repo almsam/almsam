@@ -1,6 +1,7 @@
-### Hi there 👋
+### Greetings
 
-- 🌱 I’m currently learning ...
+-  I’m currently learning [![TF][TF]][TFURL] & [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
+
 
 
 <!--
@@ -16,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[TF]: https://img.shields.io/badge/TensorFlow%20-%20%23FF6F00?logo=tensorflow&logoColor=%23FFFFFF&logoSize=auto
+[TFURL]: https://www.tensorflow.org
+
+[Scikit-learn]: https://img.shields.io/badge/SciKit%20Learn%20-%20%233499cd?logo=scikitlearn&logoColor=%23FFFFFF&logoSize=auto
+[Scikit-learn-url]: https://scikit-learn.org/stable/https://scikit-learn.org/stable/
