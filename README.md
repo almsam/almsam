@@ -14,12 +14,26 @@
 
 [![Py][Py]][PyUrl] with 
 [![Numpy][Numpy]][Numpy-url]
+[![Flask][Flask]][Flask-Url]
 [![Pandas][Pandas]][Pandas-url]
 [![Matplotlib][Matplotlib]][Matplotlib-url]
 [![Seaborn][Seaborn]][Seaborn-url]
 [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
 [![Statsmodels][Statsmodels]][Statsmodels-url]
 [![TF][TF]][TFURL]
+
+### Special interests:
+-  Statistics with Applications in Machine Learning
+-  Statistics with Applications To GIS
+-  Multivariate Calculus & Linear algebra
+-  Graphic Design & Frontend Development
+-  Anything with Math or Numerical analysis
+-  Anything with Computers or Building Cool stuff in general
+
+### How to reach me:
+
+Sami Almuallim - samialmuallim@gmail.com       -- Github: - [github.com/almsam](https://github.com/almsam)
+
 
 <!--
 **almsam/almsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -62,3 +76,5 @@ Here are some ideas to get you started:
 [Pandas-url]: https://pandas.pydata.org/
 [Statsmodels]: https://img.shields.io/badge/StatsModels%20-%20%233e50b5?logo=python&logoColor=%23FFFFFF&logoSize=auto
 [Statsmodels-url]: https://www.statsmodels.org/stable/index.html
+[Flask]: https://img.shields.io/badge/Flask%20-%20%23000000?logo=flask&logoColor=%23FFFFFF&logoSize=auto
+[Flask-Url]: https://flask.palletsprojects.com/en/3.0.x/
