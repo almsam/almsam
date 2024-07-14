@@ -14,13 +14,15 @@
 
 [![Py][Py]][PyUrl] with 
 [![Numpy][Numpy]][Numpy-url]
-[![Flask][Flask]][Flask-Url]
 [![Pandas][Pandas]][Pandas-url]
 [![Matplotlib][Matplotlib]][Matplotlib-url]
 [![Seaborn][Seaborn]][Seaborn-url]
+
 [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
 [![Statsmodels][Statsmodels]][Statsmodels-url]
 [![TF][TF]][TFURL]
+[![Flask][Flask]][Flask-Url]
+
 
 ### Special interests:
 -  Statistics with Applications in Machine Learning
