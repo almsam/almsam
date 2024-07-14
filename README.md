@@ -20,8 +20,8 @@
 
 [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
 [![Statsmodels][Statsmodels]][Statsmodels-url]
-&
 [![TF][TF]][TFURL]
+&
 [![Flask][Flask]][Flask-Url]
 
 
