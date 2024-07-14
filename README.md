@@ -20,6 +20,7 @@
 
 [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
 [![Statsmodels][Statsmodels]][Statsmodels-url]
+&
 [![TF][TF]][TFURL]
 [![Flask][Flask]][Flask-Url]
 
@@ -53,16 +54,16 @@ Here are some ideas to get you started:
 
 [TF]: https://img.shields.io/badge/TensorFlow%20-%20%23FF6F00?logo=tensorflow&logoColor=%23FFFFFF&logoSize=auto
 [TFURL]: https://www.tensorflow.org
-[Scikit-learn]: https://img.shields.io/badge/SciKit%20Learn%20-%20%233499cd?logo=scikitlearn&logoColor=%23FFFFFF&logoSize=auto
-[Scikit-learn-url]: https://scikit-learn.org/stable/https://scikit-learn.org/stable/
+[Scikit-learn]: https://img.shields.io/badge/SciKit%20Learn%20-%20%2344a9dd?logo=scikitlearn&logoColor=%23FFFFFF&logoSize=auto
+[Scikit-learn-url]: https://scikit-learn.org/stable/
 
 [Swift]: https://img.shields.io/badge/Swift%20-%20%23F05138?logo=swift&logoColor=%23FFFFFF&logoSize=auto
 [SwiftUrl]: https://www.swift.org
 [R]: https://img.shields.io/badge/%20Ross%20%26%20Robert%20%20-%20%23%23276DC3?logo=r&logoColor=%23FFFFFF&logoSize=auto
 [RUrl]: https://www.r-project.org
-[Mars]: https://img.shields.io/badge/MARS%20MIPS%20Simulator%20%20-%20%23007AAC?logo=assemblyscript&logoColor=%23FFFFFF&logoSize=auto
+[Mars]: https://img.shields.io/badge/MARS%20MIPS%20Simulator%20%20-%20%234a0010?logo=assemblyscript&logoColor=%23FFFFFF&logoSize=auto
 [MarsUrl]: https://courses.missouristate.edu/kenvollmar/mars/
-[SQL]: https://img.shields.io/badge/MySQL%20-%20%234479A1?logo=mysql&logoColor=%23FFFFFF&logoSize=auto
+[SQL]: https://img.shields.io/badge/MySQL%20-%20%23f79838?logo=mysql&logoColor=%23FFFFFF&logoSize=auto
 [SQLUrl]: https://www.mysql.com
 
 [Py]: https://img.shields.io/badge/Python%20-%20%233e50b5?logo=python&logoColor=%23FFDE57&logoSize=auto
@@ -70,13 +71,13 @@ Here are some ideas to get you started:
 
 [Numpy]: https://img.shields.io/badge/NumPy-%20%23013243?logo=numpy&logoColor=%23FFFFFF&logoSize=auto
 [Numpy-url]: https://numpy.org/
-[Matplotlib]: https://img.shields.io/badge/MatPlotLib-%20%2365baea?logo=python&logoColor=%23FFFFFF&logoSize=auto
+[Matplotlib]: https://img.shields.io/badge/MatPlotLib-%20%2345ca9a?logo=python&logoColor=%23FFFFFF&logoSize=auto
 [Matplotlib-url]: https://matplotlib.org/
-[Seaborn]: https://img.shields.io/badge/SeaBorn-%20%23444876?logo=python&logoColor=%23FFFFFF&logoSize=auto
+[Seaborn]: https://img.shields.io/badge/SeaBorn-%20%2365baea?logo=python&logoColor=%23FFFFFF&logoSize=auto
 [Seaborn-url]: https://seaborn.pydata.org/
 [Pandas]: https://img.shields.io/badge/Pandas%20-%20%23150458?logo=pandas&logoColor=%23FFFFFF&logoSize=auto
 [Pandas-url]: https://pandas.pydata.org/
-[Statsmodels]: https://img.shields.io/badge/StatsModels%20-%20%233e50b5?logo=python&logoColor=%23FFFFFF&logoSize=auto
+[Statsmodels]: https://img.shields.io/badge/StatsModels%20-%20%231e3095?logo=python&logoColor=%23FFFFFF&logoSize=auto
 [Statsmodels-url]: https://www.statsmodels.org/stable/index.html
 [Flask]: https://img.shields.io/badge/Flask%20-%20%23000000?logo=flask&logoColor=%23FFFFFF&logoSize=auto
 [Flask-Url]: https://flask.palletsprojects.com/en/3.0.x/
