@@ -2,7 +2,7 @@
 
 -  I'm Sami, a 4th year Computer Science student at UBC
 -  I enjoy riding Bikes, Kickboxing, Programming, & anything with statistics
--  I’m currently learning [![TF][TF]][TFURL] & [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
+-  I’m currently learning [![TF][TF]][TFURL] & [![Postgres][Postgres]][Postgres-url]
 -  I’m looking to collaborate on anything with Statistics or GIS
 
 ### Skills:
@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 [TFURL]: https://www.tensorflow.org
 [Scikit-learn]: https://img.shields.io/badge/SciKit%20Learn%20-%20%2344a9dd?logo=scikitlearn&logoColor=%23FFFFFF&logoSize=auto
 [Scikit-learn-url]: https://scikit-learn.org/stable/
+[Postgres]: https://img.shields.io/badge/PostgreSQL%20-%20%23336791?logo=postgresql&logoColor=%23FFFFFF&logoSize=auto
+[Postgres-url]: https://www.postgresql.org
 
 [Swift]: https://img.shields.io/badge/Swift%20-%20%23F05138?logo=swift&logoColor=%23FFFFFF&logoSize=auto
 [SwiftUrl]: https://www.swift.org
