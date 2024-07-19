@@ -7,10 +7,15 @@
 
 ### Skills:
 
+[![Postgres][Postgres]][Postgres-url]
+[![SQL][SQL]][SQLUrl]
+[![Docker][Docker]][Docker-url]
+[![JS][JS]][JS-url]
+[![CSS][CSS]][CSS-url]
+
 [![Swift][Swift]][SwiftUrl]
 [![R][R]][RUrl]
 [![Mars][Mars]][MarsUrl]
-[![SQL][SQL]][SQLUrl]
 
 [![Py][Py]][PyUrl] with 
 [![Numpy][Numpy]][Numpy-url]
@@ -51,6 +56,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ 
+[JS]: https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?logo=javascript&logoColor=FFFFFF
+[JS-url]: https://www.javascript.com
+[CSS]: https://img.shields.io/badge/CSS-%20%231572B6?logo=css3&logoColor=FFFFFF
+[CSS-url]: https://css3.com
+[Docker]: https://img.shields.io/badge/Docker%20-%20%232496ED?logo=docker&logoColor=FFFFFF
+[Docker-url]: https://www.docker.com
+[MySQL]: https://img.shields.io/badge/MySQL%20-%20%23f79838?logo=mysql&logoColor=%23FFFFFF&logoSize=auto
+[MySQL-url]: https://www.mysql.com
 
 [TF]: https://img.shields.io/badge/TensorFlow%20-%20%23FF6F00?logo=tensorflow&logoColor=%23FFFFFF&logoSize=auto
 [TFURL]: https://www.tensorflow.org
