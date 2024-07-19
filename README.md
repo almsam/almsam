@@ -16,6 +16,7 @@
 [![Swift][Swift]][SwiftUrl]
 [![R][R]][RUrl]
 [![Mars][Mars]][MarsUrl]
+[![html][html]][html-url]
 
 [![Py][Py]][PyUrl] with 
 [![Numpy][Numpy]][Numpy-url]
@@ -67,6 +68,9 @@ Here are some ideas to get you started:
 [Docker-url]: https://www.docker.com
 [MySQL]: https://img.shields.io/badge/MySQL%20-%20%23f79838?logo=mysql&logoColor=%23FFFFFF&logoSize=auto
 [MySQL-url]: https://www.mysql.com
+
+[html]: https://img.shields.io/badge/HTML5%20-%20%23E34F26?logo=html5&logoColor=FFFFFF&logoSize=auto
+[html-url]: https://github.com/whatwg/html
 
 [TF]: https://img.shields.io/badge/TensorFlow%20-%20%23FF6F00?logo=tensorflow&logoColor=%23FFFFFF&logoSize=auto
 [TFURL]: https://www.tensorflow.org
