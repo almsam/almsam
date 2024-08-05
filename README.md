@@ -2,7 +2,7 @@
 
 -  I'm Sami, a 4th year Computer Science student at UBC
 -  I enjoy riding Bikes, Kickboxing, Programming, & anything with statistics
--  I’m currently learning [![TF][TF]][TFURL] & [![Postgres][Postgres]][Postgres-url]
+-  I’m currently learning [![TF][TF]][TFURL] & [![Psycog2][Psycog2]][Psycog2-url]
 -  I’m looking to collaborate on anything with Statistics or GIS
 
 ### Skills:
@@ -58,8 +58,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[Psycog2]: https://img.shields.io/badge/Psycog2%20-%20%233775A9?logo=pypi&logoColor=%23FFFFFF&logoSize=auto
+[Psycog2-url]: https://pypi.org/project/psycopg2/
 
- 
 [JS]: https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?logo=javascript&logoColor=FFFFFF
 [JS-url]: https://www.javascript.com
 [CSS]: https://img.shields.io/badge/CSS-%20%231572B6?logo=css3&logoColor=FFFFFF
