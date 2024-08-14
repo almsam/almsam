@@ -33,7 +33,7 @@
 
 ### Special interests:
 -  Statistics with Applications in Machine Learning
--  Statistics with Applications To GIS
+-  GIS or any data science with maps in it
 -  Multivariate Calculus & Linear algebra
 -  Graphic Design & Frontend Development
 -  Anything with Math or Numerical analysis
