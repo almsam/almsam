@@ -1,9 +1,9 @@
-### Greetings
+### Hey Y'all
 
 -  I'm Sami, a 4th year Computer Science student at UBC
 -  I enjoy riding Bikes, Kickboxing, Programming, & anything with statistics
 -  I’m currently learning [![TF][TF]][TFURL] & [![Psycog2][Psycog2]][Psycog2-url]
--  I’m open to collaborate on anything with data science, data on maps or GIS, or simple ML we can use for inference
+-  I’m open to collaborate on anything with data science, data on maps or GIS, or simple ML
 
 ### Skills:
 
