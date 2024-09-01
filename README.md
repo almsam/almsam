@@ -30,6 +30,10 @@
 &
 [![Flask][Flask]][Flask-Url]
 
+### Im currently working on:
+ - [![Py][Py]][PyUrl] [Numerical Analysis for Regression Analysis & Numerical approximation](https://github.com/almsam/Numerical-Analysis-code.git)
+
+ - [![TF][TF]][TFURL] [Learning the basics of TensorFlow with Python by making a notebook](https://github.com/almsam/Intro-to-Tensor-Flow.git)
 
 ### Special interests:
 -  Statistics with Applications in Machine Learning
