@@ -2,7 +2,7 @@
 
 -  I'm Sami, a 4th year Computer Science student at UBC
 -  I enjoy riding Bikes, Kickboxing, Programming, & anything with statistics
--  I’m currently learning [![TF][TF]][TFURL] & [![Psycog2][Psycog2]][Psycog2-url]
+-  I’m currently learning [![TF][TF]][TFURL] & [![BioSteam][BioSteam]][BioSteam-url]
 -  I’m open to collaborate on anything with data science, data on maps or GIS, or simple ML
 
 ### Skills:
@@ -26,9 +26,15 @@
 
 [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
 [![Statsmodels][Statsmodels]][Statsmodels-url]
+&
 [![TF][TF]][TFURL]
+For Data Science
+
+And
+[![Psycog2][Psycog2]][Psycog2-url]
 &
 [![Flask][Flask]][Flask-Url]
+For Software Development
 
 ### Im currently working on:
  - [![Py][Py]][PyUrl] [Numerical Analysis for Regression Analysis & Numerical approximation](https://github.com/almsam/Numerical-Analysis-code.git)
@@ -64,6 +70,9 @@ Here are some ideas to get you started:
 
 [Psycog2]: https://img.shields.io/badge/Psycog2%20-%20%233775A9?logo=pypi&logoColor=%23FFFFFF&logoSize=auto
 [Psycog2-url]: https://pypi.org/project/psycopg2/
+
+[BioSteam]: https://img.shields.io/badge/BioSteam%20-%20%2364BC4B?logo=pyg&logoColor=%23FFFFFF&logoSize=auto
+[BioSteam-url]: https://biosteam.readthedocs.io/en/latest/
 
 [JS]: https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?logo=javascript&logoColor=FFFFFF
 [JS-url]: https://www.javascript.com
