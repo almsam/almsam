@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 [Psycog2]: https://img.shields.io/badge/Psycog2%20-%20%233775A9?logo=pypi&logoColor=%23FFFFFF&logoSize=auto
 [Psycog2-url]: https://pypi.org/project/psycopg2/
 
-[BioSteam]: https://img.shields.io/badge/BioSteam%20-%20%2364BC4B?logo=pyg&logoColor=%23FFFFFF&logoSize=auto
+[BioSteam]: https://img.shields.io/badge/BioSteam%20-%20%23f0546c?logo=pyg&logoColor=%23FFFFFF&logoSize=auto
 [BioSteam-url]: https://biosteam.readthedocs.io/en/latest/
 
 [JS]: https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?logo=javascript&logoColor=FFFFFF
