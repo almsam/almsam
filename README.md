@@ -2,7 +2,7 @@
 
 -  I'm Sami, a 4th year Computer Science student at UBC
 -  I enjoy riding Bikes, Kickboxing, Programming, & anything with statistics
--  I’m currently learning [![TF][TF]][TFURL] & [![BioSteam][BioSteam]][BioSteam-url]
+-  I’m currently learning [![TF][TF]][TFURL] & [![SymPy][SymPy]][SymPy-url]
 -  I’m open to collaborate on anything with data science, data on maps or GIS, or simple ML
 
 ### Skills:
@@ -117,3 +117,6 @@ Here are some ideas to get you started:
 [Statsmodels-url]: https://www.statsmodels.org/stable/index.html
 [Flask]: https://img.shields.io/badge/Flask%20-%20%23000000?logo=flask&logoColor=%23FFFFFF&logoSize=auto
 [Flask-Url]: https://flask.palletsprojects.com/en/3.0.x/
+
+[SymPy]: https://img.shields.io/badge/SymPy%20-%20%233B5526?logo=sympy&logoColor=%23FFFFFF&logoSize=auto
+[SymPy-url]: https://www.sympy.org/en/index.html
