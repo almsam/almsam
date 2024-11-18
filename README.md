@@ -118,5 +118,5 @@ Here are some ideas to get you started:
 [Flask]: https://img.shields.io/badge/Flask%20-%20%23000000?logo=flask&logoColor=%23FFFFFF&logoSize=auto
 [Flask-Url]: https://flask.palletsprojects.com/en/3.0.x/
 
-[SymPy]: https://img.shields.io/badge/SymPy%20-%20%233B5526?logo=sympy&logoColor=%23FFFFFF&logoSize=auto
+[SymPy]: https://img.shields.io/badge/SymPy%20-%20%2381B953?logo=sympy&logoColor=%23FFFFFF&logoSize=auto
 [SymPy-url]: https://www.sympy.org/en/index.html
