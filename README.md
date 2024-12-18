@@ -41,7 +41,7 @@ For Software Development
 
  - [![Py][Py]][PyUrl] [Numerical Analysis for Regression Analysis & Numerical approximation](https://github.com/almsam/Numerical-Analysis-code.git)
 
-     *ask me about [Plot_Finder.py](https://github.com/almsam/Numerical-Analysis-code/blob/main/Plot_Finder.py)*
+      *Ask me about [Plot_Finder.py](https://github.com/almsam/Numerical-Analysis-code/blob/main/Plot_Finder.py)*
 
 ### Special interests:
 -  Statistics with Applications in Machine Learning
