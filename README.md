@@ -40,9 +40,9 @@ For Software Development
  - [![TF][TF]][TFURL] [Learning the basics of TensorFlow with Python by making a notebook](https://github.com/almsam/Intro-to-Tensor-Flow.git)
 
  - [![Py][Py]][PyUrl] [Numerical Analysis for Regression Analysis & Numerical approximation](https://github.com/almsam/Numerical-Analysis-code.git)
-      - Fourier regression almost works
+      - Fourier regression is almost working
 
-      *Ask me about [Plot_Finder.py](https://github.com/almsam/Numerical-Analysis-code/blob/main/Plot_Finder.py)*
+      - *Ask me about [Plot_Finder.py](https://github.com/almsam/Numerical-Analysis-code/blob/main/Plot_Finder.py)*
 
 ### Special interests:
 -  Statistics with Applications in Machine Learning
