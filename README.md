@@ -43,6 +43,8 @@ For Software Development
       - Fourier regression is almost working
 
       - *Ask me about [Plot_Finder.py](https://github.com/almsam/Numerical-Analysis-code/blob/main/Plot_Finder.py)*
+  
+ - [please show this project some love](https://github.com/AngryMagnets/PeriodTracker.git)
 
 ### Special interests:
 -  Statistics with Applications in Machine Learning
