@@ -7,16 +7,28 @@
 
 ### Skills:
 
+For app dev I enjoy
 [![Postgres][Postgres]][Postgres-url]
 [![SQL][SQL]][SQLUrl]
+
 [![Docker][Docker]][Docker-url]
+[![Swift][Swift]][SwiftUrl]
 [![JS][JS]][JS-url]
 [![CSS][CSS]][CSS-url]
+[![html][html]][html-url]
 
-[![Swift][Swift]][SwiftUrl]
+&& [![Py][Py]][PyUrl] with 
+[![Psycog2][Psycog2]][Psycog2-url]
+&
+[![Flask][Flask]][Flask-Url]
+
+###
+
+And for Data Science / Statistics I use
+
 [![R][R]][RUrl]
 [![Mars][Mars]][MarsUrl]
-[![html][html]][html-url]
+as well as
 
 [![Py][Py]][PyUrl] with 
 [![Numpy][Numpy]][Numpy-url]
@@ -24,17 +36,13 @@
 [![Matplotlib][Matplotlib]][Matplotlib-url]
 [![Seaborn][Seaborn]][Seaborn-url]
 
+[![SymPy][SymPy]][SymPy-url]
 [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
 [![Statsmodels][Statsmodels]][Statsmodels-url]
 &
 [![TF][TF]][TFURL]
-For Data Science
 
-And
-[![Psycog2][Psycog2]][Psycog2-url]
-&
-[![Flask][Flask]][Flask-Url]
-For Software Development
+
 
 ### Im currently working on:
  - [![TF][TF]][TFURL] [Learning the basics of TensorFlow with Python by making a notebook](https://github.com/almsam/Intro-to-Tensor-Flow.git)
