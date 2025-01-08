@@ -10,8 +10,8 @@
 For app dev I enjoy
 [![Postgres][Postgres]][Postgres-url]
 [![SQL][SQL]][SQLUrl]
-
 [![Docker][Docker]][Docker-url]
+
 [![Swift][Swift]][SwiftUrl]
 [![JS][JS]][JS-url]
 [![CSS][CSS]][CSS-url]
