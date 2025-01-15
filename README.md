@@ -16,6 +16,7 @@ For app dev I enjoy
 [![JS][JS]][JS-url]
 [![CSS][CSS]][CSS-url]
 [![html][html]][html-url]
+& [![Node][Node]][Node-url]
 
 && [![Py][Py]][PyUrl] with 
 [![Psycog2][Psycog2]][Psycog2-url]
@@ -99,6 +100,8 @@ Here are some ideas to get you started:
 [Docker-url]: https://www.docker.com
 [MySQL]: https://img.shields.io/badge/MySQL%20-%20%23f79838?logo=mysql&logoColor=%23FFFFFF&logoSize=auto
 [MySQL-url]: https://www.mysql.com
+[Node]: https://img.shields.io/badge/Node%20JS%20-%20%235FA04E?logo=nodedotjs&logoColor=FFFFFF
+[Node-url]: https://nodejs.org
 
 [html]: https://img.shields.io/badge/HTML5%20-%20%23E34F26?logo=html5&logoColor=FFFFFF&logoSize=auto
 [html-url]: https://github.com/whatwg/html
