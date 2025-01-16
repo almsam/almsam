@@ -49,11 +49,11 @@ as well as
  - [![TF][TF]][TFURL] [Learning the basics of TensorFlow with Python by making a notebook](https://github.com/almsam/Intro-to-Tensor-Flow.git)
 
  - [![Py][Py]][PyUrl] [Numerical Analysis for Regression Analysis & Numerical approximation](https://github.com/almsam/Numerical-Analysis-code.git)
-      - [![Py][Py]][PyUrl] & [![SymPy][SymPy]][SymPy-url] devs needed
-      
-      - Fourier regression is almost working
+      - Fourier regression skeleton working
 
       - *Ask me about [Plot_Finder.py](https://github.com/almsam/Numerical-Analysis-code/blob/main/Plot_Finder.py)*
+  
+      - **PLOT FITTING EXPERIENCED DEVS NEEDED ASAP**
 
   <!--
  - [please show this project some love](https://github.com/AngryMagnets/PeriodTracker.git)
