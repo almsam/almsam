@@ -1,18 +1,13 @@
 import json
 import requests
 import os
+from datetime import datetime, timedelta
 
-TOKEN = os.environ.get("GITHUB_TOKEN")
-if not TOKEN: print("GH token not found apperently")
+TOKEN = os.environ.get("GITHUB_TOKEN") #initally an environ variable for tonek was to be declared, instead we use this
+if not TOKEN: TOKEN = "" # print("GH token not found apperently")
 
 USERNAME = "almsam"
-TOKEN = "GITH_TOKEN"  # if needed
 
-
-def fetch_current_stats():
-    current_contributions = 10
-    current_streak = 30
-    return current_contributions, current_streak
 
 def load_previous_stats(filepath="stats.json"):
     try:
@@ -31,15 +26,26 @@ def compare_stats(old, new):
     return diff_contributions, diff_streak
 
 def compute_streak(weeks):
-    days = []
-    for week in weeks: days.extend(week['contributionDays'])
+    contributions = {}
+    for week in weeks:
+        for day in week['contributionDays']:
+            # Map each date (YYYY-MM-DD) to its contribution count
+            contributions[day['date']] = day['contributionCount']
     
-    days.sort(key=lambda d: d['date'], reverse=True)
-    
+    # Use UTC date since GitHub's API is in UTC
     streak = 0
-    for day in days:
-        if day['contributionCount'] > 0: streak += 1
-        else: break
+    current_date = datetime.utcnow().date()
+    
+    while True:
+        date_str = current_date.strftime("%Y-%m-%d")
+        # If the date is not in our data, assume no contributions (or break if we've exhausted the range)
+        count = contributions.get(date_str, 0)
+        if count > 0:
+            streak += 1
+        else:
+            break
+        current_date -= timedelta(days=1)
+    
     return streak
 
 def fetch_current_stats(username, token):
