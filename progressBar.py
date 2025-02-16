@@ -26,6 +26,18 @@ def compare_stats(old, new):
     diff_streak = new["streak"] - old["streak"]
     return diff_contributions, diff_streak
 
+def compute_streak(weeks):
+    days = []
+    for week in weeks: days.extend(week['contributionDays'])
+    
+    days.sort(key=lambda d: d['date'], reverse=True)
+    
+    streak = 0
+    for day in days:
+        if day['contributionCount'] > 0: streak += 1
+        else: break
+    return streak
+
 def main():
     curr_contribs, curr_streak = fetch_current_stats()
     new_stats = {"contributions": curr_contribs, "streak": curr_streak}
