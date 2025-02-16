@@ -15,7 +15,7 @@ def load_previous_stats(filepath="stats.json"):
         with open(filepath, "r") as f:
             return json.load(f)
     except FileNotFoundError:
-        return {"contributions": 0, "streak": 0}
+        return {"contributions": -1, "streak": -1}
 
 def save_current_stats(stats, filepath="stats.json"):
     with open(filepath, "w") as f:
@@ -74,7 +74,7 @@ def fetch_current_stats(username, token):
     return total_contributions, current_streak
 
 def main():
-    curr_contribs, curr_streak = fetch_current_stats()
+    curr_contribs, curr_streak = fetch_current_stats(USERNAME, TOKEN)
     new_stats = {"contributions": curr_contribs, "streak": curr_streak}
     
     prev_stats = load_previous_stats()
