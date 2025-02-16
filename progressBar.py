@@ -38,6 +38,41 @@ def compute_streak(weeks):
         else: break
     return streak
 
+def fetch_current_stats(username, token):
+    # GitHub's GraphQL
+    url = "https://api.github.com/graphql"
+    query = """
+    query($login: String!) {
+      user(login: $login) {
+        contributionsCollection {
+          contributionCalendar {
+            totalContributions
+            weeks {
+              contributionDays {
+                date
+                contributionCount
+              }
+            }
+          }
+        }
+      }
+    }
+    """
+    variables = {"login": username}
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Content-Type": "application/json"
+    }
+    
+    response = requests.post(url, json={'query': query, 'variables': variables}, headers=headers)
+    if response.status_code != 200: raise Exception(f"GraphQL query failed, inf: {response.status_code}: {response.text}")
+    
+    data = response.json()
+    calendar = data['data']['user']['contributionsCollection']['contributionCalendar']; total_contributions = calendar['totalContributions']
+    weeks = calendar['weeks']; current_streak = compute_streak(weeks)
+    
+    return total_contributions, current_streak
+
 def main():
     curr_contribs, curr_streak = fetch_current_stats()
     new_stats = {"contributions": curr_contribs, "streak": curr_streak}
