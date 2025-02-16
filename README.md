@@ -6,7 +6,8 @@
 -  I’m open to collaborate on anything with data science, data on maps or GIS, or simple ML
 
 ### My current goal:
- >  get 2000 Contributions & a 365 day github streak
+- **2000 Contributions**  
+- **365-Day GitHub Streak**
 
 ### Skills:
 
