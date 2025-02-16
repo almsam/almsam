@@ -1,5 +1,9 @@
 import json
 import requests
+import os
+
+TOKEN = os.environ.get("GITHUB_TOKEN")
+if not TOKEN: print("GH token not found apperently")
 
 USERNAME = "almsam"
 TOKEN = "GITH_TOKEN"  # if needed
