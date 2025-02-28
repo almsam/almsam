@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 [JS]: https://img.shields.io/badge/JavaScript%20-%20%23F7DF1E?logo=javascript&logoColor=FFFFFF
 [JS-url]: https://www.javascript.com
-[CSS]: https://img.shields.io/badge/CSS-%20%231572B6?logo=css3&logoColor=FFFFFF
+[CSS]: https://img.shields.io/badge/CSS3-%20%231572B6?logo=css3&logoColor=FFFFFF
 [CSS-url]: https://css3.com
 [Docker]: https://img.shields.io/badge/Docker%20-%20%232496ED?logo=docker&logoColor=FFFFFF
 [Docker-url]: https://www.docker.com
