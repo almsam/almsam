@@ -57,7 +57,7 @@ as well as
 
       - *Ask me about [Plot_Finder.py](https://github.com/almsam/Numerical-Analysis-code/blob/main/Plot_Finder.py)*
   
-      - **PLOT FITTING EXPERIENCED DEVS NEEDED ASAP**
+      - devs with plot fitting experiences needed
 
   <!--
  - [please show this project some love](https://github.com/AngryMagnets/PeriodTracker.git)
