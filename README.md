@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 [Swift]: https://img.shields.io/badge/Swift%20-%20%23F05138?logo=swift&logoColor=%23FFFFFF&logoSize=auto
 [SwiftUrl]: https://www.swift.org
-[R]: https://img.shields.io/badge/%20Ross%20%26%20Robert%20%20-%20%23%23276DC3?logo=r&logoColor=%23FFFFFF&logoSize=auto
+[R]: https://img.shields.io/badge/%20R%20Project%20%20-%20%23%23276DC3?logo=r&logoColor=%23FFFFFF&logoSize=auto
 [RUrl]: https://www.r-project.org
 [Mars]: https://img.shields.io/badge/MARS%20MIPS%20Simulator%20%20-%20%234a0010?logo=assemblyscript&logoColor=%23FFFFFF&logoSize=auto
 [MarsUrl]: https://courses.missouristate.edu/kenvollmar/mars/
