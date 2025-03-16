@@ -5,9 +5,10 @@
 -  I’m currently learning [![TF][TF]][TFURL] & [![SymPy][SymPy]][SymPy-url]
 -  I’m open to collaborate on anything with data science, data on maps or GIS, or simple ML
 
-### My current goal:
-- **2000 Contributions**  
-- **365-Day GitHub Streak**
+### My current goals for 2025:
+| **2000 Contributions**      | **365-Day GitHub Streak**   |
+|-------------------------|-------------------------|
+
 
 ### Skills:
 
