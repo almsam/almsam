@@ -3,7 +3,7 @@
 -  I'm Sami, a 4th year Computer Science student at UBC
 -  I enjoy riding Bikes, Kickboxing, Programming, & anything with statistics
 -  I’m currently learning [![TF][TF]][TFURL] & [![SymPy][SymPy]][SymPy-url]
--  I’m open to collaborate on anything with data science, data on maps or GIS, or simple ML
+-  I’m open to collaborate on anything with data viz, GIS, simple graphics, or simple ML
 
 ### My current goals for 2025:
 | **2000 Contributions**      | **365-Day GitHub Streak**   |
