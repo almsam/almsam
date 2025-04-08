@@ -60,6 +60,8 @@ as well as
   
       - devs with plot fitting experiences needed
 
+ - *See also: [Image aesthetix - my capstone project](https://github.com/COSC-499-W2024/capstone-project-team-9-Order-Of-Aesthetics)*
+
   <!--
  - [please show this project some love](https://github.com/AngryMagnets/PeriodTracker.git)
 -->
