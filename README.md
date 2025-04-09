@@ -49,6 +49,9 @@ as well as
 [![TF][TF]][TFURL]
 
 
+### Projects:
+
+- AI image generation built from scratch: [Image aesthetix - my capstone project](https://github.com/almsam/Image-Aesthetics-Capstone-Project)
 
 ### Im currently working on:
  - [![TF][TF]][TFURL] [Learning the basics of TensorFlow with Python by making a notebook](https://github.com/almsam/Intro-to-Tensor-Flow.git)
@@ -60,7 +63,6 @@ as well as
   
       - devs with plot fitting experiences needed
 
- - *See also: [Image aesthetix - my capstone project](https://github.com/COSC-499-W2024/capstone-project-team-9-Order-Of-Aesthetics)*
 
   <!--
  - [please show this project some love](https://github.com/AngryMagnets/PeriodTracker.git)
@@ -73,6 +75,8 @@ as well as
 -  Graphic Design & Frontend Development
 -  Anything with Math or Numerical analysis
 -  Anything with Computers or Building Cool stuff in general
+ 
+
 
 ### How to reach me:
 
