@@ -12,17 +12,17 @@
 
 ### Skills:
 
-For app dev I enjoy
-[![Postgres][Postgres]][Postgres-url]
-[![SQL][SQL]][SQLUrl]
-[![Docker][Docker]][Docker-url]
-
+For front end I enjoy:
 [![Swift][Swift]][SwiftUrl]
 [![JS][JS]][JS-url]
 [![CSS][CSS]][CSS-url]
 [![html][html]][html-url]
 & [![Node][Node]][Node-url]
 
+For back end:
+[![Postgres][Postgres]][Postgres-url]
+[![SQL][SQL]][SQLUrl]
+[![Docker][Docker]][Docker-url], 
 && [![Py][Py]][PyUrl] with 
 [![Psycog2][Psycog2]][Psycog2-url]
 &
@@ -30,23 +30,23 @@ For app dev I enjoy
 
 ###
 
-And for Data Science / Statistics I use
-
+And for Data Science / Statistics I occasionally use
 [![R][R]][RUrl]
-[![Mars][Mars]][MarsUrl]
-as well as
+& [![Mars][Mars]][MarsUrl]
 
+But usually I stick to
 [![Py][Py]][PyUrl] with 
 [![Numpy][Numpy]][Numpy-url]
 [![Pandas][Pandas]][Pandas-url]
 [![Matplotlib][Matplotlib]][Matplotlib-url]
-[![Seaborn][Seaborn]][Seaborn-url]
+& [![Seaborn][Seaborn]][Seaborn-url]
 
+As well as
 [![SymPy][SymPy]][SymPy-url]
 [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
 [![Statsmodels][Statsmodels]][Statsmodels-url]
 &
-[![TF][TF]][TFURL]
+[![TF][TF]][TFURL] for ML
 
 
 ### Projects:
