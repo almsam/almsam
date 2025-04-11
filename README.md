@@ -42,6 +42,7 @@ But usually I stick to
 & [![Seaborn][Seaborn]][Seaborn-url]
 
 As well as
+[![SciPy][SciPy]][SciPy-url]
 [![SymPy][SymPy]][SymPy-url]
 [![Scikit-learn][Scikit-learn]][Scikit-learn-url]
 [![Statsmodels][Statsmodels]][Statsmodels-url]
@@ -151,3 +152,6 @@ Here are some ideas to get you started:
 
 [SymPy]: https://img.shields.io/badge/SymPy%20-%20%2381B953?logo=sympy&logoColor=%23FFFFFF&logoSize=auto
 [SymPy-url]: https://www.sympy.org/en/index.html
+
+[SciPy]: https://img.shields.io/badge/SciPy%20-%20%238CAAE6?logo=scipy&logoColor=%23FFFFFF&logoSize=auto
+[SciPy-url]: https://scipy.org
