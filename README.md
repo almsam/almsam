@@ -9,10 +9,7 @@
 | **2000 Contributions**      | **365-Day GitHub Streak**   |
 |-------------------------|-------------------------|
 
- <!--
- - [please show this project some love](https://github.com/AngryMagnets/PeriodTracker.git)
--->
-https://github.com/almsam/OSPREY
+[*Please show my latest project some love*](https://github.com/almsam/OSPREY)
 
 ### Skills:
 
