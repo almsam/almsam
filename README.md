@@ -4,6 +4,7 @@
 -  I enjoy riding Bikes, Kickboxing, Programming, & anything with statistics
 -  I’m currently learning [![SymPy][SymPy]][SymPy-url], [![SciPy][SciPy]][SciPy-url], & [![TF][TF]][TFURL]
 -  I’m open to collaborate on anything with data viz, GIS, simple graphics, or simple ML
+-  Please reach out if you are looking to contribute to open source
 
 ### My current goals for 2025:
 | **2000 Contributions**      | **365-Day GitHub Streak**   |
