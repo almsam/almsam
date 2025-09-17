@@ -1,6 +1,6 @@
 ### Hey Y'all
 
--  I'm Sami, a 5th year Computer Science student at UBC
+-  I'm Sami, a 5th year Computer Science Honours student at UBC
 -  I enjoy riding Bikes, Kickboxing, Programming, & anything with statistics
 -  I’m currently learning [![SymPy][SymPy]][SymPy-url], [![SciPy][SciPy]][SciPy-url], & [![TF][TF]][TFURL]
 -  I’m open to collaborate on anything with data viz, GIS, simple graphics, or simple ML
