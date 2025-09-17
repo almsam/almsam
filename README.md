@@ -7,7 +7,7 @@
 -  Please reach out if you are looking to contribute to open source
 
 ### My current goals for 2025:
-| **2000 Contributions**      | **365-Day GitHub Streak**   |
+| **1500 Contributions**      | **365-Day GitHub Streak**   |
 |-------------------------|-------------------------|
 
 [*Please show my latest project some love*](https://github.com/almsam/OSPREY)
