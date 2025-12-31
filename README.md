@@ -6,8 +6,8 @@
 -  I’m open to collaborate on anything with data viz, GIS, simple graphics, or simple ML
 -  Please reach out if you are looking to contribute to open source
 
-### My current goals for 2025:
-| **1500 Contributions**      | **365-Day GitHub Streak**   |
+### My goals for 2025:
+| **1500/1500 Contributions**      | **365/365-Day GitHub Streak**   |
 |-------------------------|-------------------------|
 
 [*Please show my latest project some love*](https://github.com/almsam/OSPREY)
