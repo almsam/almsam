@@ -1,7 +1,8 @@
 ### Hey Y'all
 
--  I enjoy riding Bikes, Kickboxing, Programming, & anything with statistics
 -  I'm Sami, a Graduate student at UBC working on my Masters in Design with focus as a Data Scientist
+-  I graduated as a Computer Science Honours student with minor in Data Science and Statistics at UBCO
+-  I enjoy riding Bikes, Kickboxing, Programming, & anything involving creating cool things
 -  I’m currently learning [![SymPy][SymPy]][SymPy-url], [![SciPy][SciPy]][SciPy-url], & [![TF][TF]][TFURL]
 -  I’m open to collaborate on anything with data viz, GIS, simple graphics, or simple ML
 -  Please reach out if you are looking to contribute to open source
