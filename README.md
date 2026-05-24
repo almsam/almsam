@@ -77,10 +77,11 @@ As well as
 ### Special interests:
 -  Statistics with Applications in Machine Learning
 -  GIS or any data science with maps in it
--  Multivariate Calculus & Linear algebra
 -  Graphic Design & Frontend Development
 -  Anything with Math or Numerical analysis
 -  Anything with Computers or Building Cool stuff in general
+
+Essentially, building anything cool that people can use
  
 
 
